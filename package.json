@@ -1,0 +1,25 @@
+{
+  "name": "node-emailer",
+  "version": "1.0.0",
+  "description": "email",
+  "main": "emailer.js",
+  "scripts": {
+    "test": "node emailer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurh/node-emailer.git"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "rahulwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wurh/node-emailer/issues"
+  },
+  "homepage": "https://github.com/wurh/node-emailer#readme",
+  "dependencies": {
+    "nodemailer": "^2.3.0"
+  }
+}
